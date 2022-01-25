@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/taplinseth/JS211_BankAccountProject/issues"
   },
-  "homepage": "https://github.com/taplinseth/JS211_BankAccountProject#readme"
+  "homepage": "https://github.com/taplinseth/JS211_BankAccountProject#readme",
+  "dependencies": {
+    "eslint": "^8.7.0",
+    "mocha": "^9.2.0"
+  }
 }
