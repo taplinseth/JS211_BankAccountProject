@@ -1,0 +1,20 @@
+{
+  "name": "js211_bankaccountproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taplinseth/JS211_BankAccountProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taplinseth/JS211_BankAccountProject/issues"
+  },
+  "homepage": "https://github.com/taplinseth/JS211_BankAccountProject#readme"
+}
